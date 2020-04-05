@@ -1,0 +1,115 @@
+#title-body{
+    background-color: #00aff0;
+    color: #fff;
+    padding: 3% 15%;
+    font-family: "Ubuntu";
+    
+}
+
+.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+}
+
+.presentation{
+    margin: 5rem auto;
+    
+   
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.presentation-image{
+    padding: auto ;
+}
+
+.presentation-button{
+    margin: 10% 3% 10% 0; 
+}
+
+#skills{
+    text-align: center;
+    margin: 5rem;
+    font-family: "Ubuntu";
+}
+
+.skill-icon{
+    color: #b2ebf2;
+
+}
+.skill-icon:hover{
+    color: #00aff0;
+}
+
+.skill-h3{
+
+    padding: 1rem;
+    line-height: 30px;
+    font-size: 25px;
+}
+
+.skill-p{
+    
+    font-size: 16px;
+}
+
+#testimonial{
+    background-color: #b2ebf2;
+    text-align: center;
+}
+
+.testimonial-image{
+    width: 10rem;
+    height: 10rem;
+}
+
+.testimonial-text{    
+    margin: 5rem 5rem 2rem 5rem;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 4vw;
+    line-height: 1.5;
+}
+
+
+.testimonial-name{
+    color: gray;
+    font-family: "Ubuntu";
+}
+
+.sponsor{
+    margin: 5rem 1rem 3rem 5rem;
+    width: 20rem;
+    height: 8rem;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+    font-family: "Ubuntu";
+    
+}
+
+.pricing-color {
+        padding: 3% 2%;
+
+}
+#backpage{
+    background-color: #00aff0;
+    color: #fff;
+    text-align: center;
+    padding: 100px 15px 1px 15px;
+    font-family: "Ubuntu";
+}
+
+#contacts{
+    text-align: center;
+    padding: 20px 15px 1px 15px;
+    font-family: "Ubuntu";
+    line-height: 3rem;
+   
+}
